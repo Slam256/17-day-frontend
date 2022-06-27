@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![desktop](./images/Screen%20Shot%201024px.png)
-![small mobile](./images/Screen%20Shot%20375px.png.png)
+![small mobile](./images/Screen%20Shot%20375px.png)
 
 ### Links
 
